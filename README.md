@@ -105,7 +105,7 @@ Produto: {ImageLink:https://example.com/other.jpg OfferLink:https://example.com/
 
 ---
 
-## 🛠️ Contribuindo
+## 🛠️ Contribuindo com o Projeto
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -125,15 +125,4 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request.
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e modificar.
-
----
-
-## 💬 Contato
-
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
-- **Email**: seu-email@example.com
 
